@@ -48,7 +48,6 @@ public class DoiMatKhau extends Fragment {
                 changePassword();
             }
         });
-
         return v;
     }
     private void changePassword() {
